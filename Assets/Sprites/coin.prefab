@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5458102351102906341}
   - component: {fileID: 5458102351102906342}
   m_Layer: 0
-  m_Name: coin
+  m_Name: rcoin
   m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: -2413806693520163455, guid: 5efe12b6a5a684047aad7d4c7b753b25, type: 3}
-  m_Color: {r: 0.8584906, g: 0.78794676, b: 0.26321647, a: 1}
+  m_Color: {r: 1, g: 0.99862754, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
